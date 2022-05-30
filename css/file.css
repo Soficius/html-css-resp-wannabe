@@ -12,7 +12,10 @@
     .row{
         flex-wrap: wrap;
     }
-    .lessons .col,.steps .col {
+    .lessons .col,.steps .col, .why-us .col {
         width: 100%;
     }  
+    .why-us .col {
+        margin-bottom: 3rem;
+    }
 }
